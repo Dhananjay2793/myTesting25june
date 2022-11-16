@@ -17,5 +17,7 @@ public class TestBase {
 		driver.manage().timeouts().implicitlyWait(Duration.ofSeconds(20));
 	    driver.get("https://www.saucedemo.com/");
 	}
+	
+	//updated code
 
 }
